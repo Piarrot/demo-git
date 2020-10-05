@@ -1,1 +1,3 @@
-console.log("Hola Git!!! Desde LA Plata");
+function logConsole(){
+    console.log("Hola Git!!! Desde LA Plata");
+}
