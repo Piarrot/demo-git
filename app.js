@@ -1,4 +1,4 @@
-function consoleLog() {
+function consoleLog(coolParameter) {
   console.log("Hola Git!!! Desde LA Plata");
 }
 
